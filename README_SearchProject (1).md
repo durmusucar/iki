@@ -38,6 +38,6 @@ Amaç: Temel kullanıcı işlemlerinin (kayıt, arama vb.) doğruluğunu kontrol
 
 ## 👤 Hazırlayan
 
-Test Uzmanı Adayı – _Senin İsmin Buraya Yazılabilir_
+Test Uzmanı Adayı – _Durmus Ucar_
 
 ---
